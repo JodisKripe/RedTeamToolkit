@@ -57,3 +57,9 @@ This repo is designed to prepare a red team toolkit from scratch and have all of
 ### [PowerUpSQL](https://github.com/NetSPI/PowerUpSQL)
 
 ### [Whisker](https://github.com/eladshamir/Whisker)
+
+# Building Tools
+
+Prerequisites are:
+
+- .Net 4.8 [Get it here](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-developer-pack-offline-installer)
