@@ -37,6 +37,7 @@ tools[25]=https://github.com/NetSPI/PowerUpSQL.git
 tools[26]=https://github.com/eladshamir/Whisker.git
 tools[27]=https://github.com/mgeeky/Stracciatella.git
 tools[28]=https://github.com/Flangvik/NetLoader.git
+tools[29]=https://github.com/danielbohannon/Invoke-Obfuscation
 
 for i in ${tools[@]}; do
     git clone $i
