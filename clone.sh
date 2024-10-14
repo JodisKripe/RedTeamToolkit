@@ -37,7 +37,9 @@ tools[25]=https://github.com/NetSPI/PowerUpSQL.git
 tools[26]=https://github.com/eladshamir/Whisker.git
 tools[27]=https://github.com/mgeeky/Stracciatella.git
 tools[28]=https://github.com/Flangvik/NetLoader.git
-tools[29]=https://github.com/danielbohannon/Invoke-Obfuscation
+tools[29]=https://github.com/danielbohannon/Invoke-Obfuscation.git
+tools[30]=https://github.com/dev-2null/ADCollector.git
+tools[31]=https://github.com/FatRodzianko/Get-RBCD-Threaded.git
 
 for i in ${tools[@]}; do
     git clone $i
