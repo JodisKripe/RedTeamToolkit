@@ -38,6 +38,9 @@ This repo is designed to prepare a red team toolkit from scratch and have all of
 | Invoke-Obfuscation  | https://github.com/danielbohannon/Invoke-Obfuscation  |
 | ADCollector         | https://github.com/dev-2null/ADCollector.git          |
 | Get-RBCD-Threaded   | https://github.com/FatRodzianko/Get-RBCD-Threaded.git |
+| PEZor               | https://github.com/phra/PEzor.git                     |
+| Donut               | https://github.com/TheWover/donut.git                 |
+| NanoDump            | https://github.com/fortra/nanodump.git                |
 
 # Building Tools
 
@@ -45,3 +48,7 @@ Prerequisites are:
 
 - .Net 4.8 [Get it here|https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-developer-pack-offline-installer)
 - \<WIP>
+
+# MalDev
+
+[MalDev](https://www.crow.rip/crows-nest/mal/dev/getting-started)

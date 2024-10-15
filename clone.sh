@@ -40,6 +40,7 @@ tools[28]=https://github.com/Flangvik/NetLoader.git
 tools[29]=https://github.com/danielbohannon/Invoke-Obfuscation.git
 tools[30]=https://github.com/dev-2null/ADCollector.git
 tools[31]=https://github.com/FatRodzianko/Get-RBCD-Threaded.git
+tools[32]=https://github.com/phra/PEzor.git
 
 for i in ${tools[@]}; do
     git clone $i
