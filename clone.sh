@@ -8,39 +8,7 @@ cd Tools
 
 echo "Cloning from github"
 
-tools[0]=https://github.com/rasta-mouse/ThreatCheck.git
-tools[1]=https://github.com/GhostPack/Seatbelt.git
-tools[2]=https://github.com/GhostPack/Rubeus.git
-tools[3]=https://github.com/praetorian-inc/PortBender.git
-tools[4]=https://github.com/cube0x0/SharpSystemTriggers.git
-tools[5]=https://github.com/GhostPack/SharpDPAPI.git
-tools[6]=https://github.com/PowerShellMafia/PowerSploit.git
-tools[7]=https://github.com/FuzzySecurity/StandIn.git
-tools[8]=https://github.com/Mayyhem/SharpSCCM.git
-tools[9]=https://github.com/mandiant/SharPersist.git
-tools[10]=https://github.com/tomcarver16/ADSearch.git
-tools[11]=https://github.com/leoloobeek/LAPSToolkit.git
-tools[12]=https://github.com/CCob/SweetPotato.git
-tools[13]=https://github.com/GhostPack/Certify.git
-tools[14]=https://github.com/dnSpy/dnSpy.git
-tools[15]=https://github.com/GhostPack/ForgeCert.git
-tools[16]=https://github.com/cube0x0/KrbRelay.git
-tools[17]=https://github.com/dafthack/MailSniper.git
-tools[18]=https://github.com/ParrotSec/mimikatz.git
-tools[19]=https://github.com/rasta-mouse/SCMUACBypass.git
-tools[20]=https://github.com/FSecureLABS/SharpGPOAbuse.git
-tools[21]=https://github.com/GhostPack/SharpUp.git
-tools[22]=https://github.com/tevora-threat/SharpView.git
-tools[23]=https://github.com/GhostPack/SharpWMI.git
-tools[24]=https://github.com/skahwah/SQLRecon.git
-tools[25]=https://github.com/NetSPI/PowerUpSQL.git
-tools[26]=https://github.com/eladshamir/Whisker.git
-tools[27]=https://github.com/mgeeky/Stracciatella.git
-tools[28]=https://github.com/Flangvik/NetLoader.git
-tools[29]=https://github.com/danielbohannon/Invoke-Obfuscation.git
-tools[30]=https://github.com/dev-2null/ADCollector.git
-tools[31]=https://github.com/FatRodzianko/Get-RBCD-Threaded.git
-tools[32]=https://github.com/phra/PEzor.git
+@("https://github.com/Gerenios/AADInternals-Endpoints.git","https://github.com/dev-2null/ADCollector.git","https://github.com/tomcarver16/ADSearch","https://github.com/Ben0xA/AwesomerShell.git","https://github.com/Flangvik/BetterSafetyKatz.git","https://github.com/fanbyprinciple/bin2shellcode.git","https://github.com/GhostPack/Certify","https://github.com/trustedsec/COFFLoader.git","https://github.com/Cracked5pider/CoffeeLdr.git","https://github.com/yck1509/ConfuserEx.git","https://github.com/mkaring/ConfuserEx.git","https://github.com/dnSpy/dnSpy","https://github.com/TheWover/donut.git","https://github.com/3DotDev/DotNetPatcher.git","https://github.com/Hagrid29/DumpAADSyncCreds.git","https://github.com/Gurpreet06/ETW-Patcher.git","https://github.com/GhostPack/ForgeCert","https://github.com/unkvolism/Fuck-Etw.git","https://github.com/FatRodzianko/Get-RBCD-Threaded.git","https://github.com/f1zm0/hades.git","https://github.com/assume-breach/Home-Grown-Red-Team.git","https://github.com/Kevin-Robertson/Inveigh.git","https://github.com/OmerYa/Invisi-Shell.git","https://github.com/h4wkst3r/InvisibilityCloak.git","https://github.com/pentestfactory/Invoke-DCSync.git","https://github.com/danielbohannon/Invoke-Obfuscation","https://github.com/JoelGMSec/Invoke-Stealth.git","https://github.com/nick-frischkorn/jordanspecial.git","https://github.com/cube0x0/KrbRelay","https://github.com/leoloobeek/LAPSToolkit","https://github.com/dafthack/MailSniper","https://github.com/JodisKripe/MalwareDevelopment.git","https://github.com/ParrotSec/mimikatz","https://github.com/caueb/Mockingjay.git","https://github.com/fortra/nanodump.git","https://github.com/ricardojoserf/NativeDump.git","https://github.com/Flangvik/NetLoader","https://github.com/Aetsu/OffensivePipeline.git","https://github.com/VoldeSec/PatchlessCLRLoader.git","https://github.com/topotam/PetitPotam.git","https://github.com/phra/PEzor.git","https://github.com/praetorian-inc/PortBender","https://github.com/secabstraction/PowerCat.git","https://github.com/PowerShellMafia/PowerSploit","https://github.com/PowerShellEmpire/PowerTools.git","https://github.com/NetSPI/PowerUpSQL","https://github.com/dirkjanm/ROADtools.git","https://github.com/GhostPack/Rubeus","https://github.com/GhostPack/SafetyKatz.git","https://github.com/rasta-mouse/SCMUACBypass","https://github.com/GhostPack/Seatbelt","https://github.com/Flangvik/SharpCollection.git","https://github.com/GhostPack/SharpDPAPI","https://github.com/mandiant/SharPersist","https://github.com/FSecureLABS/SharpGPOAbuse","https://github.com/SpecterOps/SharpHound.git","https://github.com/ChoiSG/SharpPSLoader.git","https://github.com/Mayyhem/SharpSCCM","https://github.com/cobbr/SharpSploit.git","https://github.com/cube0x0/SharpSystemTriggers","https://github.com/GetRektBoy724/SharpUnhooker.git","https://github.com/GhostPack/SharpUp","https://github.com/tevora-threat/SharpView","https://github.com/GhostPack/SharpWMI","https://github.com/Arno0x/ShellcodeWrapper.git","https://github.com/mandiant/SilkETW.git","https://github.com/SnaffCon/Snaffler.git","https://github.com/zh54321/SnafflerParser.git","https://github.com/sadreck/Spartacus.git","https://github.com/skahwah/SQLRecon","https://github.com/FuzzySecurity/StandIn","https://github.com/mgeeky/Stracciatella","https://github.com/CCob/SweetPotato","https://github.com/klezVirus/SysWhispers3.git","https://github.com/trickster0/TartarusGate.git","https://github.com/laramies/theHarvester.git","https://github.com/rasta-mouse/ThreatCheck","https://github.com/leechristensen/UnmanagedPowerShell.git","https://github.com/eladshamir/Whisker","https://github.com/0xb11a1/yetAnotherObfuscator.git")
 
 for i in ${tools[@]}; do
     git clone $i
