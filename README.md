@@ -18,7 +18,7 @@ This repo lists and contains tools and toolsets which an be used out of the box 
 | COFF-Loader	| https://github.com/trustedsec/COFFLoader.git |
 | CoffeeLdr	| https://github.com/Cracked5pider/CoffeeLdr.git |
 | ConfuserEx	| https://github.com/yck1509/ConfuserEx.git |
-| ConfuserEx2	| https://github.com/mkaring/ConfuserEx.git |
+| ConfuserEx2	| https://github.com/xiaoxstz/ConfuserEx2.git |
 | dnSpy               | https://github.com/dnSpy/dnSpy                        |
 | Donut               | https://github.com/TheWover/donut.git                 |
 | DotNetPatcher	| https://github.com/3DotDev/DotNetPatcher.git |
