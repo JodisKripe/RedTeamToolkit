@@ -1,5 +1,5 @@
 $msbuild_loc="C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MSBuild.exe"
-$nuget_loc="C:\Users\User\Downloads\nuget.exe"
+$nuget_loc="C:\Users\User\Downloads\nuget.exe" # update
 
 $nuget_restore="$nuget_loc restore"
 
