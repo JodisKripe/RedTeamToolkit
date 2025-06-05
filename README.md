@@ -29,6 +29,7 @@ This repo lists and contains tools and toolsets which an be used out of the box 
 | Get-RBCD-Threaded   | https://github.com/FatRodzianko/Get-RBCD-Threaded.git |
 | hades	| https://github.com/f1zm0/hades.git |
 | Home-Grown-Red-Team	| https://github.com/assume-breach/Home-Grown-Red-Team.git |
+| Inceptor | https://github.com/klezVirus/inceptor.git |
 | Inveigh	| https://github.com/Kevin-Robertson/Inveigh.git |
 | Invisi-Shell	| https://github.com/OmerYa/Invisi-Shell.git |
 | InvisibilityCloak	| https://github.com/h4wkst3r/InvisibilityCloak.git |
