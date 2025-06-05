@@ -39,6 +39,7 @@ This repo lists and contains tools and toolsets which an be used out of the box 
 | jordanspecial	| https://github.com/nick-frischkorn/jordanspecial.git |
 | KrbRelay            | https://github.com/cube0x0/KrbRelay                   |
 | LAPSToolkit         | https://github.com/leoloobeek/LAPSToolkit             |
+| LazySign | https://github.com/jfmaes/LazySign.git |
 | MailSniper          | https://github.com/dafthack/MailSniper                |
 | MalwareDevelopment	| https://github.com/JodisKripe/MalwareDevelopment.git |
 | mimikatz            | https://github.com/ParrotSec/mimikatz                 |
