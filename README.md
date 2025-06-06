@@ -47,6 +47,7 @@ This repo lists and contains tools and toolsets which an be used out of the box 
 | NanoDump            | https://github.com/fortra/nanodump.git                |
 | NativeDump	| https://github.com/ricardojoserf/NativeDump.git |
 | NetLoader           | https://github.com/Flangvik/NetLoader                 |
+| NimCrypt2            | https://github.com/icyguider/Nimcrypt2.git        |
 | OffensivePipeline	| https://github.com/Aetsu/OffensivePipeline.git |
 | PatchlessCLRLoader	| https://github.com/VoldeSec/PatchlessCLRLoader.git |
 | PetitPotam	| https://github.com/topotam/PetitPotam.git |
